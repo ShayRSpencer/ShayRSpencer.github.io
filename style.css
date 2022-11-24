@@ -1,0 +1,68 @@
+.link {
+    font-size: 15px;
+    font-style:italic;
+    color:#34bdcb;
+}
+.div2 {
+    float:left;
+    width:15%;
+    height:500px;
+    text-align:center;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    
+}
+
+.ifrb {
+    border: 6px #34bdcb inset;
+}
+
+#bcgn2 {
+    background-image:url("images/div2\ image.png");
+    background-size:cover;
+    opacity:70%;
+}
+
+
+.div3 {
+    float:right;
+    width:73%;
+    text-align:left;
+    offset: 20px;
+    
+}
+
+.cent {
+    font-size:20px;
+    
+}
+.sdlst {
+    font-size: 15px;
+}
+
+#listpg1 {
+    color:#4c175a;
+    font-size:13px;
+    font-style:bold
+}
+.pglink {
+    color:#0b4c54;
+}
+
+.body {
+    background-image:url("images/no\ mans\ sky\ background\ image\ 1.png");
+    background-size:cover;
+    font-family:verdana;
+}
+
+.i {
+    color:#530064;
+}
+
+.div4 {
+    float:right;
+    width:57%;
+    text-align:left;
+    offset: 20px;
+}
